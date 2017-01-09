@@ -1,0 +1,22 @@
+html,body{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	padding-bottom: 10px; 
+}
+
+main{
+	padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.main{
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;	
+}
+
+
+
